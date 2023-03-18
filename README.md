@@ -121,7 +121,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Algorithms and Design Patterns
 
 *Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
-
+While an algorithm is a well-defined set of instructions, a design pattern is a higher-level description of a solution. You can implement a design pattern in various ways, whereas you must follow the specific instructions in an algorithm. They don't solve the problem; they solve the design of the solution.
 * Algorithms
     * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
     * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
